@@ -1,0 +1,26 @@
+{
+  "name": "pure-validator",
+  "version": "1.0.0",
+  "description": "Library pure validator with JavaScript",
+  "main": "pure-validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeftarmascarenhas/pure-validator.git"
+  },
+  "keywords": [
+    "Validator",
+    "pure",
+    "validator",
+    "js",
+    "validator"
+  ],
+  "author": "Jeftar Mascarenhas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeftarmascarenhas/pure-validator/issues"
+  },
+  "homepage": "https://github.com/jeftarmascarenhas/pure-validator#readme"
+}
