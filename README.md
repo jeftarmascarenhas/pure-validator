@@ -3,7 +3,7 @@
 ### Initialize validator
 `Validator()`
 
-Options
+### Options
 `Validator({
   emailFormat: 'Opss invalid format'
 })`
